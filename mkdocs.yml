@@ -9,9 +9,9 @@ theme:
   favicon: 'img/favicon.ico'
   logo:
     icon: 'explore'
-repo_name: 'tapanther/STA_CCC'
-repo_url: 'https://github.com/tapanther/STA_CCC'
-site_url: 'https://tapanther.github.io/STA_CCC/'
+repo_name: 'tapanther/STA-CCC'
+repo_url: 'https://github.com/tapanther/STA-CCC'
+site_url: 'https://tapanther.github.io/STA-CCC/'
 
   
 extra_css:
