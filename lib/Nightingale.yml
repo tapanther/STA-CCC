@@ -1,0 +1,26 @@
+---
+node : Vessels/Starfleet
+template : Vessel.md
+title : SS Nightingale (UES 9016)
+GeneralInfo :
+  Statistics :
+    Spaceframe : Neptune
+    Designation : UES 9016
+    Mission Profile : Scientific and Survey Operations
+    Service Date : 6 December 2139
+    Refit : Prototype Warp 4.5 Core
+#  Traits :
+#    - LIST
+#  Description : >-
+#    TEXT
+Mission :
+  Role : Survey Ship
+  Note : Destroyed June 2156
+  Location : Galorndon Core
+Description : >-
+  TEXT
+NotableEvents :
+  2156, June : >-
+    *SS Nightingale* veers off-course into disputed space and comes under attack by
+    Romulan Bird-of-Prey *T'Varen*. The vessel is lost after an unprovoked escalation
+    by the Romulan ship, but not before the *Endeavour* rescues the surviving crew.

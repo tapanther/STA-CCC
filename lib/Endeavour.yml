@@ -1,0 +1,44 @@
+---
+node : Vessels/Starfleet
+template : Vessel.md
+title : Endeavour (NX-06)
+GeneralInfo :
+  Statistics :
+    Spaceframe : NX-Class
+    Designation : NX-06
+    Mission Profile : Pathfinder
+    Service Date : 2 June 2156
+    #Refit : TEXT
+  Traits :
+    - LIST
+  #Description : >-
+  #  TEXT
+Mission :
+  Role : Patrol and Exploration Along Romulan Border
+  #Note : TEXT
+  Location : Beta Quadrant
+Description : >-
+  TEXT
+NotableEvents :
+  2156, June : >-
+    *Endeavour* responds to a distress signal from *SS Nightingale (UES 9016)*, which has surrendered
+    to a Romulan Bird of Prey. The *Nightingale* is destroyed by the Romulans, but not before the
+    *Endeavour* crew discovered a Romulan spy aboard.
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Shakedown Cruise
+      Date : 3 May 2156
+      Description : >-
+        *Endeavour* undertakes a shakedown cruise around the Sol system, renders assistance to
+        a crashed shuttlepod outside Utopia Planitia Fleet Yards.
+    -
+      Name : Distress Signal
+      Date : 18 May 2156
+      Description : >-
+        *Endeavour* responds to a faint distress signal from a disputed system near Romulan space.
+        The wreckage of the ***REDACTED*** is discovered within the system, along with half her crew.
+        The survivors are transported to Starbase 4 for debrief after ***REDACTED*** warp core detonates
+        within the wormhole's event horizon.
