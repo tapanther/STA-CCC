@@ -8,17 +8,30 @@ GeneralInfo :
     Designation : NX-06
     Mission Profile : Pathfinder
     Service Date : 2 June 2156
+    Crew Complement : 120
     #Refit : TEXT
-  Traits :
-    - LIST
-  #Description : >-
-  #  TEXT
+  AddInfo :
+    Notable Crew :
+      - Captain Charles Winchester
+      - Commander Suvek
+      - Lt. Commander Jonas Bauer
+      - Lt. Commander Onid Brux
+      - Lt. Commander Xan Beckett
+      - Lieutenant jav Karst
+      - Lieutenant Sloan Bishop
+#  Traits :
+#    - LIST
+#  Description : >-
+#    TEXT
 Mission :
   Role : Patrol and Exploration Along Romulan Border
   #Note : TEXT
   Location : Beta Quadrant
 Description : >-
-  TEXT
+  Humanity's sixth Warp 5 capable ship, the *Endeavour* was constructed at the Warp Five Complex
+  in Bozeman, Montana. The *Endeavour* received several enhancements to the original NX Class
+  specification as part of the standard construction, including Phase Cannons and Photonic Torpedo
+  Launchers.
 NotableEvents :
   2156, June : >-
     *Endeavour* responds to a distress signal from *SS Nightingale (UES 9016)*, which has surrendered
@@ -29,10 +42,15 @@ History :
 #    TEXT
   Timeline :
     -
+      Name : Hull Laid Down
+      Date : 15 August 2155
+      Description : >-
+        *Endeavour*'s hull is laid down at the Warp Five Complex in Bozeman Montana.
+    -
       Name : Shakedown Cruise
       Date : 3 May 2156
       Description : >-
-        *Endeavour* undertakes a shakedown cruise around the Sol system, renders assistance to
+        *Endeavour* undertakes a shakedown cruise around the Sol system, and renders assistance to
         a crashed shuttlepod outside Utopia Planitia Fleet Yards.
     -
       Name : Distress Signal
@@ -42,3 +60,9 @@ History :
         The wreckage of the ***REDACTED*** is discovered within the system, along with half her crew.
         The survivors are transported to Starbase 4 for debrief after ***REDACTED*** warp core detonates
         within the wormhole's event horizon.
+    -
+      Name : Nightingale Incident
+      Date : June 2156
+      Description : >-
+        *Endeavour* renders assistance to the *SS Nightingale*, which had been crippled by a
+        Romulan attack. The *Nightingale*'s surviving crew is recovered, but the vessel is lost.

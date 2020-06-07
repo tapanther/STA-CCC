@@ -9,6 +9,12 @@ GeneralInfo :
     Mission Profile : Scientific and Survey Operations
     Service Date : 6 December 2139
     Refit : Prototype Warp 4.5 Core
+    Crew Complement : 80
+  AddInfo :
+    Notable Crew :
+      - Captain Dianna Blake [Deceased]
+      - Acting Captain Alison Lewis
+      - Lt. Commander T'Lek [Imprisoned]
 #  Traits :
 #    - LIST
 #  Description : >-
@@ -18,7 +24,38 @@ Mission :
   Note : Destroyed June 2156
   Location : Galorndon Core
 Description : >-
-  TEXT
+  The *SS Nightingale* was one of the last Neptune Class vessels to leave the United
+  Earth Luna Fleet Yards before construction shifted to the newly constructed shipyards
+  at Utopia Planitia.
+
+
+  Under the charter of the United Earth Space Probe Agency, the *Nightingale* undertook
+  three successful Five Year Missions to charter the local star cluster surrounding the
+  Sol System.
+
+
+  In 2154, at the completion of it's third Five Year Mission, the *Nightingale* underwent
+  a major refit at the Luna Ship Yards, where the ship's warp drive was retrofitted with
+  an experimental Warp 4.5 Engine. If successful, the design can be easily adapted to the
+  rest of the aging Ganges and Neptune fleet, extending their lifespan and significantly
+  increasing Starfleet's effective reach.
+
+
+  In 2156, the *Nightingale* conducted a routine survey of the systems bordering Romulan
+  space. A navigational error caused the ship to veer into the Galorndon System. As the
+  ship dropped out of warp to ascertain its bearing, a Romulan Bird of Prey decloaked and
+  opened fire. Unlike previous encounters of the sort, the Romulan commander allowed the
+  ship to surrender peacefully and report their status to Starfleet.
+
+
+  With the *Endeavour* dispatched to render assistance to the crippled *Nightingale*, the
+  injured crew was evacuated while full terms were negotiated with the Romulan commander.
+  An investigation of the ship's computers revealed that the Science Officer, Lt.
+  Commander T'Lek, had reprogrammed the navigational array to feed false data into the
+  ship's course controller. The reasons for this this action are unknown. Although the
+  surviving crew was successfully evacuated, the Nightingale* itself was lost after
+  negotiations broke down.
+
 NotableEvents :
   2156, June : >-
     *SS Nightingale* veers off-course into disputed space and comes under attack by
