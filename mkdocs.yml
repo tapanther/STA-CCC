@@ -44,10 +44,23 @@ nav:
   - Home : index.md
   - General :
     - Timeline : Timeline.md
+  - Locations :
+    - Systems :
+      - Galorndon Core :
+        - Galorndon Core : GalorndonCore.md
+  - Major Powers :
+    - Romulan Star Empire :
+      - Romulan Star Empire : RomulanStarEmpire.md
+  - NPC :
+    - Starfleet :
+      - Admiral Rafael Douglas : AdmiralDouglas.md
   - Vessels :
     - Starfleet :
       - Endeavour (NX-06) : Endeavour.md
       - SS Nightingale (UES 9016) : Nightingale.md
   - Categories :
       - General : General.md
+      - Locations : Locations.md
+      - Major Powers : Major Powers.md
+      - NPC : NPC.md
       - Vessels : Vessels.md

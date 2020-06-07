@@ -1,0 +1,80 @@
+---
+node : Major Powers/Romulan Star Empire
+template : Nation.md
+title : Romulan Star Empire
+altLinks:
+  - Romulan Empire
+GeneralInfo :
+  Statistics :
+    Population : '*Unknown*'
+    Government : Imperial [Speculation]
+    Region : Beta Quadrant
+#  Ethics :
+#    - LIST
+#  Description : >-
+#    TEXT
+#  Diagram : |
+#    ```
+#    ```
+Society :
+  Government : >-
+    Little is known about the governmental structure of the Empire. No formal relations
+    exist between Coalition members and the Empire, despite multiple attempts to
+    communicate via subspace. Given the known technological capabilities of Romulan
+    vessels, it is unlikely that the Empire lacks the capability to respond, leaving
+    only the conclusion that they have chosen to remain silent.
+  Locations:
+    Romulus : >-
+      The capital of the Empire, though it is unclear whether the name refers to a
+      planet, a system, or some other body.
+    Galorndon Core : >-
+      This system is contested by the Empire.
+    Cheron : >-
+      This system is contested by the Empire.
+    Algeron : >-
+      This system is contested by the Empire.
+    Altair : >-
+      This system is contested by the Empire.
+    Tau Ceti : >-
+      This system is contested by the Empire.
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+Culture :
+  Description : >-
+    Based on the limited communications with individual Romulan vessels, the Empire
+    appears to be a highly centralized, militaristic, and isolationist society.
+#  CoreBeliefs :
+#    - LIST
+  Prejudices :
+    - Xenophobic
+#  Minorities :
+#    - LIST
+#  Values :
+#    - >-
+#      TEXT
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#  Religion : >-
+#    TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : First Official Romulan Contact
+      Date : 2152
+      Description : >-
+        *Enterprise* is struck by a cloaked mine. While attempting to disengage, a
+        Romulan vessel decloaks and orders the ship to leave the system.

@@ -1,0 +1,31 @@
+---
+node : Locations/Systems/Galorndon Core
+template : Location.md
+title : Galorndon Core
+GeneralInfo :
+  Statistics :
+    Type : Uninhabitable
+    Region : Narendra Sector
+    Population : 0
+#  Description : >-
+#    TEXT
+Geography :
+  Description : >-
+    The system contains several uninhabitable bodies of no mineral or scientific
+    importance. Despite this, the system is highly contested with the Romulan Star
+    Empire due to the strategic position of the system.
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

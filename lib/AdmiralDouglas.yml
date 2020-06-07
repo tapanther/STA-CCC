@@ -1,0 +1,24 @@
+---
+node : NPC/Starfleet
+template : Character.md
+title : Admiral Rafael Douglas
+altLinks:
+  - Admiral Douglas
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : 52
+#  Traits :
+#    - LIST
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Flag Officer, Star Fleet.
+  Note : Admiral
+  Location : Starfleet Headquarters, San Francisco, Earth
+Description : >-
+  A leading reform proponent, Admiral Douglas was put in charge of Starfleet's
+  fleet modernization program after the success of the NX Project.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

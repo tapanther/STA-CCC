@@ -28,15 +28,24 @@ Mission :
   #Note : TEXT
   Location : Beta Quadrant
 Description : >-
-  Humanity's sixth Warp 5 capable ship, the *Endeavour* was constructed at the Warp Five Complex
-  in Bozeman, Montana. The *Endeavour* received several enhancements to the original NX Class
-  specification as part of the standard construction, including Phase Cannons and Photonic Torpedo
-  Launchers.
+  Humanity's sixth Warp 5 capable ship, the *Endeavour* was constructed at the Warp Five
+  Complex in Bozeman, Montana. The *Endeavour* received several enhancements to the
+  original NX Class specification as part of the standard construction, including Phase
+  Cannons and Photonic Torpedo Launchers.
+
+
+  Under charter from UESPA, *Endeavour* is assigned a Five Year Mission along the
+  Narendra Sector, partially as a response to increasing Romulan aggression in the
+  area. Until such a time as Admiral Douglas' fleet modernization project is complete,
+  the *Endeavour* remains Starfleet's sole emergency responder in the region.
 NotableEvents :
+  2156, May : >-
+    *Endeavour* responds to a distress signal from a contested system, leading to the
+    rescue of the ***REDACTED*** surviving crew.
   2156, June : >-
-    *Endeavour* responds to a distress signal from *SS Nightingale (UES 9016)*, which has surrendered
-    to a Romulan Bird of Prey. The *Nightingale* is destroyed by the Romulans, but not before the
-    *Endeavour* crew discovered a Romulan spy aboard.
+    *Endeavour* responds to a distress signal from *SS Nightingale (UES 9016)*, which has
+    *surrendered to a Romulan Bird of Prey. The *Nightingale* is destroyed by the
+    *Romulans, but not before the Endeavour* crew discovered a Romulan spy aboard.
 History :
 #  Description : >-
 #    TEXT
@@ -50,19 +59,30 @@ History :
       Name : Shakedown Cruise
       Date : 3 May 2156
       Description : >-
-        *Endeavour* undertakes a shakedown cruise around the Sol system, and renders assistance to
-        a crashed shuttlepod outside Utopia Planitia Fleet Yards.
+        *Endeavour* undertakes a shakedown cruise around the Sol system, and renders
+        assistance to a crashed shuttlepod outside Utopia Planitia Fleet Yards.
     -
       Name : Distress Signal
       Date : 18 May 2156
       Description : >-
-        *Endeavour* responds to a faint distress signal from a disputed system near Romulan space.
-        The wreckage of the ***REDACTED*** is discovered within the system, along with half her crew.
-        The survivors are transported to Starbase 4 for debrief after ***REDACTED*** warp core detonates
-        within the wormhole's event horizon.
+        *Endeavour* responds to a faint distress signal from a disputed system near
+        Romulan space. The wreckage of the ***REDACTED*** is discovered within the
+        *system, along with half her crew. The survivors are transported to Starbase 4 for
+        *debrief after ***REDACTED*** warp core detonates within the wormhole's event
+        *horizon.
     -
       Name : Nightingale Incident
       Date : June 2156
       Description : >-
-        *Endeavour* renders assistance to the *SS Nightingale*, which had been crippled by a
-        Romulan attack. The *Nightingale*'s surviving crew is recovered, but the vessel is lost.
+        *Endeavour* renders assistance to the *SS Nightingale*, which had been crippled by
+        *a Romulan attack. The *Nightingale*'s surviving crew is recovered, but the vessel
+        *is lost.
+    -
+      Name : War Games
+      Date : 1 July 2156
+      Description : >-
+        While assisting the Denobulan PDF with a torpedo test, the *Endeavour* agrees
+        to run a war games simulation with the VSA *Ti'Mur*, under the command of
+        Commander Syrran, in order to resolve a dispute over participation in the test.
+Links :
+  - '[Ship Registry Sheet](https://drive.google.com/file/d/1MqrFdS6-N3Y0GgYbfouqaPTim4yG9AgI/view?usp=sharing)'
