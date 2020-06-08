@@ -1,5 +1,5 @@
 ---
-node : NPC/Starfleet
+node : United Earth/NPC
 template : Character.md
 title : Admiral Rafael Douglas
 altLinks:
@@ -8,8 +8,10 @@ GeneralInfo :
   Statistics :
     Race : Human
     Age : 52
-#  Traits :
-#    - LIST
+  Traits :
+    - Dour
+    - Dedicated
+    - Career Officer
 #  Description : >-
 #    TEXT
 Occupation :

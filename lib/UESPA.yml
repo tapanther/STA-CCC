@@ -1,0 +1,73 @@
+---
+node : United Earth
+template : Organization.md
+title : United Earth Space Probe Agency
+altLinks :
+  - UESPA
+Image : '![UESPA Emblem](img/UESPA.png)'
+GeneralInfo :
+  Statistics :
+    Type : Government Agency
+    Focus : Space Exploration
+    Headquarters : St. Petersburg
+#    Membership : NUM
+#    Allegiance : TEXT
+  Description : >-
+    Founded in 2060, the United Earth Space Probe Agency is the United Earth Government
+    agency tasked with peaceful exploration of space. UESPA predates Starfleet Command,
+    and officially considers itself as the descendant organization to the United Nations
+    Office for Outer Space Affairs (UNOOSA), which disbanded in 2053 along with its parent
+    organization.
+
+
+    UESPA does not directly own or operate manned craft, as it is primarily a scientific
+    and administrative body. Instead, the construction of manned spacecraft, from the
+    initial *Warp-Alpha* to the latest *NX* class ship, *Endevour*, are joint ventures
+    between Starfleet and the United Earth Space Probe Agency. Starfleet vessels are
+    granted exploration charters under the authority of UESPA, typically in the form of
+    Five Year Missions.
+
+
+    UESPA does construct and operate unmanned probes, though the NX-Program has
+    temporarily consumed all of UESPA's resources. Unmanned operations are scheduled to
+    resume by 2162, after the completion of the planned 12 *NX* class ships.
+#  Diagram : |
+#    ```
+#    ```
+Structure :
+  Governance : >-
+    UESPA is an independent agency under the oversight of the United Earth Council. It
+    has been tasked with oversight of Starfleet peacetime operations as part of its
+    mandate for deep space exploration.
+  Locations :
+    UESPA Headquarters : >-
+      Located in St. Petersburg, UESPA headquarters were chosen as part of a compromise
+      with the former Russian Federation.
+#  Members :
+#    NAME : >-
+#      TEXT
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

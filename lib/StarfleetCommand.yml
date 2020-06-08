@@ -1,0 +1,83 @@
+---
+node : United Earth
+template : Organization.md
+title : Starfleet Command
+altLinks :
+  - Starfleet
+Image: '![United Earth Starfleet Command](img/UnitedEarthStarfleetCommand.png)'
+GeneralInfo :
+  Statistics :
+    Type : Government Agency
+    Focus : Starship Operations
+    Headquarters : San Francisco
+#    Membership : NUM
+#    Allegiance : TEXT
+  Description : >-
+    Starfleet Command is the mixed service responsible for starship operations for the
+    United Earth Government. Starfleet Command was founded in 2135 in response to the
+    growing need for a centralized space command body to represent United Earth within the
+    interstellar community.
+
+
+    Although primarily intended as a civilian service organization, Starfleet was modelled
+    after the various national armed forces of the Post-Atomic Horror, including the use
+    of naval military ranks and a strict hierarchy. These national forces naturally
+    provided an initial seed of desperately needed skilled personnel, as the ratification
+    of the United Earth Charter practically obsoleted the need for their existence. Though
+    the move drew condemnation from several members of the United Earth Council and the
+    few remaining *holdout* nations, the charter was nevertheless ratified without
+    amendment.
+
+
+    Established by charter under UESPA, Starfleet Command is solely responsible for UEG's
+    manned space craft fleet. Private space craft, including the various interstellar
+    freighters, are separately licensed and managed by the United Earth Trade Council,
+    while unmanned probes are operated directly by UESPA. Starfleet vessels are granted
+    exploration charters, typically in the form of Five Year Missions, under the
+    authority of UESPA. While the charter sets a general mandate for a starship's mission,
+    day to day operations are entirely within the purview of Starfleet Command.
+
+
+    Starfleet was pressed into full military service following the Xindi attack on earth
+    in 2153, and the founding charter was quickly amended during an emergency session of
+    the United Earth Council to include a mandate for planetary defense of Earth and its
+    Colonies. The same session ratified the charter for the creation of the Military
+    Assault Command Operations (MACO) as an independent armed forces for UEG.
+#  Diagram : |
+#    ```
+#    ```
+Structure :
+  Governance : >-
+    Starfleet Command is overseen by the United Earth Space Probe Agency.
+  Locations :
+    Starfleet Headquarters : >-
+      Located in San Francisco, along the site of the Golden Gate National Recreational
+      Area.
+#  Members :
+#    NAME : >-
+#      TEXT
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

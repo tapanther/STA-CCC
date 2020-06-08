@@ -1,7 +1,10 @@
 ---
-node : Vessels/Starfleet
+node : United Earth/Vessels
 template : Vessel.md
 title : SS Nightingale (UES 9016)
+altLinks :
+  - SS Nightingale
+  - Nightingale
 GeneralInfo :
   Statistics :
     Spaceframe : Neptune
@@ -35,7 +38,7 @@ Description : >-
 
 
   In 2154, at the completion of it's third Five Year Mission, the *Nightingale* underwent
-  a major refit at the Luna Ship Yards, where the ship's warp drive was retrofitted with
+  an major refit at the Luna Ship Yards, where the ship's warp drive was retrofitted with
   an experimental Warp 4.5 Engine. If successful, the design can be easily adapted to the
   rest of the aging Ganges and Neptune fleet, extending their lifespan and significantly
   increasing Starfleet's effective reach.
@@ -57,6 +60,9 @@ Description : >-
   negotiations broke down.
 
 NotableEvents :
+  2154, September : >-
+    The *Nightingale* undergoes an experimental refit to increase its maximum speed to
+    Warp 4.5.
   2156, June : >-
     *SS Nightingale* veers off-course into disputed space and comes under attack by
     Romulan Bird-of-Prey *T'Varen*. The vessel is lost after an unprovoked escalation
