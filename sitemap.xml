@@ -1,27 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://tapanther.github.io/STA-CCC/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/DenobulaPlanet/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/DenobulaCiv/</loc>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tapanther.github.io/STA-CCC/Timeline/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/GalorndonCore/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/RomulanStarEmpire/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/StarfleetCommand/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/UESPA/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/FleetModernization/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/AdmiralDouglas/</loc>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tapanther.github.io/STA-CCC/Endeavour/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tapanther.github.io/STA-CCC/Nightingale/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/VulcanHighCouncil/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/Denobula/</loc>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://tapanther.github.io/STA-CCC/General/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://tapanther.github.io/STA-CCC/Vessels/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <loc>https://tapanther.github.io/STA-CCC/Other/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/Romulan%20Star%20Empire/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/United%20Earth/</loc>
+     <lastmod>2020-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://tapanther.github.io/STA-CCC/Vulcan/</loc>
+     <lastmod>2020-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
