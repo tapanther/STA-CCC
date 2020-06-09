@@ -1,0 +1,65 @@
+---
+node : Denobula
+template : Nation.md
+title : Denobulan Civilization
+altLinks :
+  - Denobulan
+#GeneralInfo :
+#  Statistics :
+#    Government : TEXT
+##    Region : TEXT
+##  Ethics :
+##    - LIST
+#  Description : >-
+#    TEXT
+#  Diagram : |
+#    ```
+#    ```
+#Society :
+#  Government : >-
+#    TEXT
+#  Locations:
+#    NAME : >-
+#      TEXT
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  CoreBeliefs :
+#    - LIST
+#  Prejudices :
+#    - LIST
+#  Minorities :
+#    - LIST
+#  Values :
+#    - >-
+#      TEXT
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#  Religion : >-
+#    TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
+Links :
+  - '[Denobulan Civilization on Memory Alpha](https://memory-alpha.fandom.com/wiki/Denobulan)'
+  - '[Denobulan Civilization on Memory Beta](https://memory-beta.fandom.com/wiki/Denobulan)'

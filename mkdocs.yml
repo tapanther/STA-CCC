@@ -13,6 +13,23 @@ repo_name: 'tapanther/STA-CCC'
 repo_url: 'https://github.com/tapanther/STA-CCC'
 site_url: 'https://tapanther.github.io/STA-CCC/'
 
+index_tag_text: >-
+    Welcome to the STA:CCC Player's Wiki!
+
+
+    This site contains canon, in-universe information for the game. The information on this site takes precedence over
+    [Memory Alpha](https://memory-alpha.fandom.com/) or [Memory Beta](https://memory-beta.fandom.com/).
+
+
+    Some pages may contain only links to these sites, in which case there is no game-specific information at this time.
+    Others may not have either link, in which case the information on those sites should be considered non-canon for
+    the purposes of the game.
+
+
+    The entirety of `Star Trek: Enterprise` is considered canon, but information from future series should not be
+    taken as fully canon, as the older series often have contradictory information about this time period of human
+    history.
+
   
 extra_css:
   - stylesheets_lib/uml.css
@@ -42,6 +59,9 @@ markdown_extensions:
 
 nav:
   - Home : index.md
+  - Denobula :
+    - Denobula : DenobulaPlanet.md
+    - Denobulan Civilization : DenobulaCiv.md
   - General :
     - Timeline : Timeline.md
   - Other :
@@ -60,8 +80,12 @@ nav:
     - Vessels :
       - Endeavour (NX-06) : Endeavour.md
       - SS Nightingale (UES 9016) : Nightingale.md
+  - Vulcan :
+    - Vulcan High Council : VulcanHighCouncil.md
   - Categories :
+      - Denobula : Denobula.md
       - General : General.md
       - Other : Other.md
       - Romulan Star Empire : Romulan Star Empire.md
       - United Earth : United Earth.md
+      - Vulcan : Vulcan.md

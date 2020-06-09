@@ -1,0 +1,35 @@
+---
+node : Denobula
+template : Location.md
+title : Denobula
+GeneralInfo :
+  Statistics :
+    Class : M
+    System : Denobula Triaxia
+    Type : Homeworld
+    Population : 12,000,000,000
+#  Description : >-
+#    TEXT
+Geography :
+  Description : >-
+    The majority of the planet is submerged under a planet-spanning ocean, with a single supercontinent
+    that holds the entire world's population. With living space at a premium, the majority of the content is
+    covered by a single, massive mega city, save for the small natural preserves that dot landscape.
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
+Links:
+  - '[Denobula on Memory Alpha](https://memory-alpha.fandom.com/wiki/Denobula)'
+  - '[Denobula on Memory Beta](https://memory-beta.fandom.com/wiki/Denobula)'

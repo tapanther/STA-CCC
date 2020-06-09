@@ -1,0 +1,59 @@
+---
+node : Vulcan
+template : Organization.md
+title : Vulcan High Council
+GeneralInfo :
+  Statistics :
+    Type : Interplanetary Government
+    Capital World : Vulcan
+#    Membership : NUM
+#    Allegiance : TEXT
+  Description : >-
+    The Vulcan High Council is the ruling body of the Vulcan civilization, having superseded the High Command after
+    its dissolution at the end of the Syrrannite Crisis.
+#  Diagram : |
+#    ```
+#    ```
+Structure :
+  Governance : >-
+    Composed of the leading members from among Vulcan's institutions, the High Council serves as the collective
+    Head of State and of Government for Vulcan. Though the council leads the Vulcan administrative apparatus,
+    specific members may themselves be the heads of specific departments or organizations. For example, the head
+    of the Vulcan Science Directorate is traditionally invited to sit on the High Council.
+#  Locations :
+#    NAME : >-
+#      TEXT
+  Members :
+    T'Pau : >-
+      One of the surviving leaders of the Syrrannite movement, T'Pau was instrumental in restoring the original
+      teachings of Surak and dissolving the corrupt High Command. She is currently the First Minister of the High
+      Council.
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Vulcan High Command Dissolved
+      Date : 2154
+      Description : >-
+        The Vulcan High Command is dissolved after evidence of corruption by Administrator V'Las
+        is presented to the High Council. Kuvak invites T'Pau to lead the High Council, as she
+        is the foremost expert of Surak's original teachings.
+Links :
+  - '[Vulcan High Council on Memory Alpha](https://memory-alpha.fandom.com/wiki/Vulcan_High_Council)'
