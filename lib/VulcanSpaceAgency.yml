@@ -1,0 +1,57 @@
+---
+node : Vulcan
+template : Organization.md
+title : Vulcan Space Agency
+altLinks :
+  - VSA
+GeneralInfo :
+  Statistics :
+    Type : Government Agency
+    Focus : Starship Operations and Space Exploration
+    Headquarters : Vulcana Regar
+  Description : >-
+    The Space Agency is responsible for managing Vulcan's interstellar fleet, akin to United Earth's Starfleet.
+    The VSA had previously been placed under the jurisdiction of the High Command, but has since been restored to
+    an independent agency.
+
+
+    The Space Agency is currently suffering a severe manpower crisis, as Minister T'Pau's efforts to clear house
+    have dragged on due to resistance from supporters of former Administrator V'Las. With much of the Vulcan government
+    paralyzed by procedural considerations, the Space Agency has had no choice but to mothball most of the Vulcan fleet.
+#  Diagram : |
+#    ```
+#    ```
+#Structure :
+#  Governance : >-
+#    TEXT
+#  Locations :
+#    NAME : >-
+#      TEXT
+#  Members :
+#    NAME : >-
+#      TEXT
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
